@@ -65,5 +65,8 @@
 
 初赛成绩：购买56+，收藏66+ 17/306
 
+![](https://github.com/zhangxiaoling/purchase-favorite-predict/blob/master/%E5%88%9D%E8%B5%9B.png)
 
 复赛成绩：购买55.4，收藏74.6 24/80
+
+![]()
