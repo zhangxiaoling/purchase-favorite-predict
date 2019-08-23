@@ -57,3 +57,7 @@
 
 购买特征重要性分析
 
+![](https://github.com/zhangxiaoling/purchase-favorite-predict/blob/master/pvpqe6i8p5.png)
+
+收藏特征重要性分析
+
