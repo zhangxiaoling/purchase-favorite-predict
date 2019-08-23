@@ -61,3 +61,9 @@
 
 收藏特征重要性分析
 
+![](https://github.com/zhangxiaoling/purchase-favorite-predict/blob/master/pvpnasry5h.png)
+
+初赛成绩：购买56+，收藏66+ 17/306
+
+
+复赛成绩：购买55.4，收藏74.6 24/80
