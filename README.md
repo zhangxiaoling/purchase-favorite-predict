@@ -69,4 +69,4 @@
 
 复赛成绩：购买55.4，收藏74.6 24/80
 
-![]()
+![](https://github.com/zhangxiaoling/purchase-favorite-predict/blob/master/%E5%A4%8D%E8%B5%9B.png)
